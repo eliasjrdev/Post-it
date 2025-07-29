@@ -23,4 +23,4 @@ O objetivo aqui era praticar conceitos básicos do Js, como manipulação do DOM
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/post-it-app.git
+git clone https://github.com/eliasjrdev/Post-it
