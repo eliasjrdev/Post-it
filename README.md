@@ -1,4 +1,4 @@
-# 📝 Aplicativo de Post-it
+Aplicativo de Post-it
 
 Olá, este é um simples de post-its feito com HTML, JavaScript puro e Tailwind CSS.  
 O objetivo aqui era praticar conceitos básicos do Js, como manipulação do DOM, efeitos de mouse e lógica de programação de maneia geral.
